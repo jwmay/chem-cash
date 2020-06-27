@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2996387c63bbbc3606e765ddaa84daf4",
+    "revision": "1d891dfe4d2e32c3905f0b2a4cad5a3c",
     "url": "/index.html"
   },
   {
-    "revision": "ce664e7c09317919ec07",
-    "url": "/static/js/2.c2c5f215.chunk.js"
+    "revision": "fd5ecb153e53c6d7e839",
+    "url": "/static/js/2.306e6845.chunk.js"
   },
   {
-    "revision": "e2896a34bc173bbd7b6d83453e91d5e1",
-    "url": "/static/js/2.c2c5f215.chunk.js.LICENSE.txt"
+    "revision": "c80b09f21c3dd2137be347c65d78f97d",
+    "url": "/static/js/2.306e6845.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5075bb6464899cb0368d",
-    "url": "/static/js/main.02a9d509.chunk.js"
+    "revision": "70c34189e3a40432ef54",
+    "url": "/static/js/main.eceaade4.chunk.js"
   },
   {
     "revision": "d58716498dcabb61c8f6",
@@ -26,5 +26,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "58b9362d12c7e2dab412446de4681d5a",
     "url": "/static/media/chemistry-background.58b9362d.jpg"
+  },
+  {
+    "revision": "cfcd4ce6646adc78b2e3270c2b62c688",
+    "url": "/static/media/songs-background.cfcd4ce6.jpg"
   }
 ]);
