@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.d96d3f69.chunk.js",
-    "main.js.map": "/static/js/main.d96d3f69.chunk.js.map",
+    "main.js": "/static/js/main.7e15079e.chunk.js",
+    "main.js.map": "/static/js/main.7e15079e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7b046f31.js",
     "runtime-main.js.map": "/static/js/runtime-main.7b046f31.js.map",
     "static/js/2.3e2fbbf1.chunk.js": "/static/js/2.3e2fbbf1.chunk.js",
     "static/js/2.3e2fbbf1.chunk.js.map": "/static/js/2.3e2fbbf1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e055904ab295f77c45887e5c9580bb9f.js": "/precache-manifest.e055904ab295f77c45887e5c9580bb9f.js",
+    "precache-manifest.fe0650b27c64e1f624928e24cc9ff6c3.js": "/precache-manifest.fe0650b27c64e1f624928e24cc9ff6c3.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.3e2fbbf1.chunk.js.LICENSE.txt": "/static/js/2.3e2fbbf1.chunk.js.LICENSE.txt",
     "static/media/chem-cash-logo.png": "/static/media/chem-cash-logo.30174016.png",
-    "static/media/chemistry-background.jpg": "/static/media/chemistry-background.58b9362d.jpg",
+    "static/media/chemistry-background.jpg": "/static/media/chemistry-background.11d1d297.jpg",
     "static/media/doc-may-profile.jpg": "/static/media/doc-may-profile.f927335d.jpg",
     "static/media/songs-background.jpg": "/static/media/songs-background.cfcd4ce6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7b046f31.js",
     "static/js/2.3e2fbbf1.chunk.js",
-    "static/js/main.d96d3f69.chunk.js"
+    "static/js/main.7e15079e.chunk.js"
   ]
 }
