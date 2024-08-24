@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.988d3541.chunk.js",
-    "main.js.map": "/static/js/main.988d3541.chunk.js.map",
+    "main.js": "/static/js/main.e8ad29d6.chunk.js",
+    "main.js.map": "/static/js/main.e8ad29d6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7b046f31.js",
     "runtime-main.js.map": "/static/js/runtime-main.7b046f31.js.map",
-    "static/js/2.72d6133c.chunk.js": "/static/js/2.72d6133c.chunk.js",
-    "static/js/2.72d6133c.chunk.js.map": "/static/js/2.72d6133c.chunk.js.map",
+    "static/js/2.d3b743d9.chunk.js": "/static/js/2.d3b743d9.chunk.js",
+    "static/js/2.d3b743d9.chunk.js.map": "/static/js/2.d3b743d9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a4c8358fe2489317d72f51c3b81d7216.js": "/precache-manifest.a4c8358fe2489317d72f51c3b81d7216.js",
+    "precache-manifest.686e99d436f3d87259b66993412214f2.js": "/precache-manifest.686e99d436f3d87259b66993412214f2.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.72d6133c.chunk.js.LICENSE.txt": "/static/js/2.72d6133c.chunk.js.LICENSE.txt",
+    "static/js/2.d3b743d9.chunk.js.LICENSE.txt": "/static/js/2.d3b743d9.chunk.js.LICENSE.txt",
     "static/media/chem-cash-logo.png": "/static/media/chem-cash-logo.2b9148cb.png",
     "static/media/chem-cash-prime-logo.png": "/static/media/chem-cash-prime-logo.7fb758e0.png",
     "static/media/chemistry-background.jpg": "/static/media/chemistry-background.11d1d297.jpg",
@@ -24,7 +24,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7b046f31.js",
-    "static/js/2.72d6133c.chunk.js",
-    "static/js/main.988d3541.chunk.js"
+    "static/js/2.d3b743d9.chunk.js",
+    "static/js/main.e8ad29d6.chunk.js"
   ]
 }
