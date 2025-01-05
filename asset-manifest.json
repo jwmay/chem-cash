@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.98ea113a.chunk.js",
-    "main.js.map": "/static/js/main.98ea113a.chunk.js.map",
+    "main.js": "/static/js/main.186c6eb0.chunk.js",
+    "main.js.map": "/static/js/main.186c6eb0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7b046f31.js",
     "runtime-main.js.map": "/static/js/runtime-main.7b046f31.js.map",
     "static/js/2.36756b44.chunk.js": "/static/js/2.36756b44.chunk.js",
     "static/js/2.36756b44.chunk.js.map": "/static/js/2.36756b44.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cb18684e1ad24d0409a2aedf2c9647e4.js": "/precache-manifest.cb18684e1ad24d0409a2aedf2c9647e4.js",
+    "precache-manifest.504189204c3f4eab39ab369c204abe8c.js": "/precache-manifest.504189204c3f4eab39ab369c204abe8c.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.36756b44.chunk.js.LICENSE.txt": "/static/js/2.36756b44.chunk.js.LICENSE.txt",
     "static/media/chem-cash-logo.png": "/static/media/chem-cash-logo.2b9148cb.png",
@@ -25,6 +25,6 @@
   "entrypoints": [
     "static/js/runtime-main.7b046f31.js",
     "static/js/2.36756b44.chunk.js",
-    "static/js/main.98ea113a.chunk.js"
+    "static/js/main.186c6eb0.chunk.js"
   ]
 }
