@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/chem-cash/static/js/main.269e9c0f.chunk.js",
-    "main.js.map": "/chem-cash/static/js/main.269e9c0f.chunk.js.map",
+    "main.js": "/chem-cash/static/js/main.4985ce2c.chunk.js",
+    "main.js.map": "/chem-cash/static/js/main.4985ce2c.chunk.js.map",
     "runtime-main.js": "/chem-cash/static/js/runtime-main.0ed4faa0.js",
     "runtime-main.js.map": "/chem-cash/static/js/runtime-main.0ed4faa0.js.map",
     "static/js/2.5e5d8a15.chunk.js": "/chem-cash/static/js/2.5e5d8a15.chunk.js",
@@ -29,6 +29,6 @@
   "entrypoints": [
     "static/js/runtime-main.0ed4faa0.js",
     "static/js/2.5e5d8a15.chunk.js",
-    "static/js/main.269e9c0f.chunk.js"
+    "static/js/main.4985ce2c.chunk.js"
   ]
 }
